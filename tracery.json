@@ -1,0 +1,68 @@
+{
+  "origin": [
+    "[this_threadcount:#threadcount#]#this_threadcount# {img https://filly-more.glitch.me/tartan.png?threadcount=#this_threadcount#}"
+  ],
+  "threadcount": [
+    "[symmetrical:#symmetry#]#terminaldef# #threaddef# #threaddef# #threaddefs#"
+  ],
+  "terminaldef": [
+    "#colour##symmetrical##count#"
+  ],
+  "threaddefs": [
+    "#threaddef# #threaddefs#",
+    "#terminaldef#"
+  ],
+  "threaddef": [
+    "#colour##count#"
+  ],
+  "colour": [
+    "LR",
+    "R",
+    "DR",
+    "O",
+    "DO",
+    "LY",
+    "Y",
+    "DY",
+    "LG",
+    "G",
+    "DG",
+    "LB",
+    "B",
+    "DB",
+    "LP",
+    "P",
+    "DP",
+    "W",
+    "LN",
+    "N",
+    "DN",
+    "K",
+    "LT",
+    "T",
+    "DT"
+  ],
+  "count": [
+    "#digit0##digit1#",
+    "10",
+    "20"
+  ],
+  "digit0": [
+    "",
+    "1",
+    "2",
+    "3",
+    "",
+    ""
+  ],
+  "digit1": [
+    "2",
+    "4",
+    "6",
+    "8"
+  ],
+  "symmetry": [
+    "",
+    "/"
+  ]
+}
